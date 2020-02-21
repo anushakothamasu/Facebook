@@ -27,7 +27,7 @@ mvn clean test
 
 ## Author
 
-* **Urmila Moturu** - *Initial work* 
+* **Anusha Kothamasu** - *Initial work* 
 
 ## Future release plans
 
